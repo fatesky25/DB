@@ -1,0 +1,1 @@
+GRANT CREATE VIEW to scott
